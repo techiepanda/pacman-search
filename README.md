@@ -5,4 +5,4 @@ Implemented the "Project 1: Search in Pacman" of [UC Berkeley CS188 Intro to AI]
 
 [Report](https://github.com/techiepanda/pacman-search/blob/master/Artificial%20Intelligence%20Project%2001%20The%20Searchin%20Pac-Man.pdf) for the stats we analyzied while running different kind of Search in Pacman.
 
-Team: [Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/spartan1234)
+Team: [Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
